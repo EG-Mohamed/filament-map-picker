@@ -65,7 +65,7 @@
                 top: 12px;
                 left: 12px;
                 right: 12px;
-                z-index: 1000;
+                z-index: 19;
             }
 
             .filament-map-picker-search-input {
